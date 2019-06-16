@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "type": "rosgraph_msgs/Log", 
+      "name": "/rosout"
+    }, 
+    {
+      "type": "rosgraph_msgs/Log", 
+      "name": "/rosout_agg"
+    }
+  ]
+}
